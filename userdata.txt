@@ -1,0 +1,5 @@
+compactView 0
+CEForm.Width 409
+CEForm.Height 275
+CEForm.Left 610
+CEForm.Top 305
